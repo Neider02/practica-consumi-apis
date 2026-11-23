@@ -1,6 +1,8 @@
 # Práctica consumo APIs
 
 Institución Universitaria Pascual Bravo · Programación Web.
+integrante:
+ESNEIDER GONZALEZ TOSCANO.
 
 Componentes:
 
